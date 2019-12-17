@@ -1,0 +1,18 @@
+body {
+    background-color: hsl(257, 40%, 49%);
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+.first-container { 
+    position: relative;
+    width: 100vw;
+}
+
+.form-container {
+    position: absolute;
+    left: 35%;
+    top: 40%;
+    width: 35%;
+    color: white;
+}
