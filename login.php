@@ -21,7 +21,7 @@
                 <td><input type="text" name="passwod" style="height: 22px; width: 225px"></td>
                 
                 </tr>
-                    <td style="text-align: center"><input type="submit" value="Login   " style="margin: 0px auto;height: 30px; font-weight: bold;"></td>
+                    <td style="text-align: center"><input type="button" value="Login   " style="margin: 0px auto;height: 30px; font-weight: bold;"></td>
                     <td style="text-align: center"><input type="submit" value="Register" style="height: 30px; font-weight: bold;"></td>
                 </tr>
                 </table>
